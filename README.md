@@ -29,8 +29,6 @@ git clone https://github.com/yourusername/MMOJournal.git
 cd MMOJournal
 python main.py
 
-python main.py
-
 
 ---
 
