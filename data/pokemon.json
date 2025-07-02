@@ -1,0 +1,54 @@
+{
+  "pvp": [
+    {
+      "name": "Bulbsaur",
+      "tier": "NU",
+      "moves": [
+        "Giga Drain",
+        "Solar Beam",
+        "Sweet Scent"
+      ],
+      "ivs": {
+        "HP": 31,
+        "ATK": 0,
+        "DEF": 31,
+        "SPATK": 31,
+        "SPDEF": 31,
+        "SPEED": 31
+      },
+      "nature": "Modest",
+      "owned": true
+    },
+    {
+      "name": "H262S",
+      "tier": "4",
+      "moves": [],
+      "ivs": {
+        "HP": 31,
+        "ATK": 31,
+        "DEF": 31,
+        "SPATK": 31,
+        "SPDEF": 31,
+        "SPEED": 0
+      },
+      "nature": "88",
+      "owned": false
+    }
+  ],
+  "shiny": [
+    {
+      "name": "Entei",
+      "method": "Single",
+      "phases": 0,
+      "phase_pokemon": [],
+      "obtained": false
+    },
+    {
+      "name": "/*/-//",
+      "method": "Horde 5x",
+      "phases": 3,
+      "phase_pokemon": [],
+      "obtained": false
+    }
+  ]
+}
