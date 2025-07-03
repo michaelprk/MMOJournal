@@ -33,7 +33,10 @@ git clone https://github.com/michaelprk/MMOJournal.git
 cd MMOJournal
 
 python main.py
-🛣️ Roadmap
+```
+
+## 🛣️ Roadmap
+
 Core PvP and shiny entry system
 
 Add/edit/remove entries
