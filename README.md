@@ -47,28 +47,28 @@ Web app version in progress (with image support, login, and shareable logs)
 ## 📸 Terminal Preview
 
 ### Main Menu  
-! [Main Menu](screenshots/01_main_menu.png)
+![Main Menu](screenshots/01_main_menu.png)
 
 ### Adding a PvP Pokémon  
-! [Add PvP Pokémon](screenshots/02_add_pvp_pokemon.png)
+![Add PvP Pokémon](screenshots/02_add_pvp_pokemon.png)
 
 ### Adding a Shiny Hunt Entry  
-! [Add Shiny Hunt](screenshots/03_add_shiny_hunt.png)
+![Add Shiny Hunt](screenshots/03_add_shiny_hunt.png)
 
 ### Viewing PvP Pokémon List  
-! [View PvP List](screenshots/04_view_pvp_list.png)
+![View PvP List](screenshots/04_view_pvp_list.png)
 
 ### Viewing Shiny Hunt List  
-! [View Shiny List](screenshots/05_view_shiny_list.png)
+![View Shiny List](screenshots/05_view_shiny_list.png)
 
 ### Editing an Entry  
-! [Edit Entry](screenshots/06_edit_entry.png)
+![Edit Entry](screenshots/06_edit_entry.png)
 
 ### Removing an Entry  
-! [Remove Entry](screenshots/07_remove_entry.png)
+![Remove Entry](screenshots/07_remove_entry.png)
 
 ### Filtering/Search Entries  
-! [Filter/Search](screenshots/08_filter_search.png)
+![Filter/Search](screenshots/08_filter_search.png)
 
 🤝 Contributions
 This is a personal project and part of a learning journey into full-stack development.
