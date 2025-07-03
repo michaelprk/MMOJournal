@@ -44,22 +44,31 @@ Optional Markdown export
 
 Web app version in progress (with image support, login, and shareable logs)
 
-📸 Terminal Preview
-Main Menu
+## 📸 Terminal Preview
 
-Adding a PvP Pokémon
+### Main Menu  
+![Main Menu](screenshots/01_main_menu.png)
 
-Adding a Shiny Hunt Entry
+### Adding a PvP Pokémon  
+![Add PvP Pokémon](screenshots/02_add_pvp_pokemon.png)
 
-Viewing PvP Pokémon List
+### Adding a Shiny Hunt Entry  
+![Add Shiny Hunt](screenshots/03_add_shiny_hunt.png)
 
-Viewing Shiny Hunt List
+### Viewing PvP Pokémon List  
+![View PvP List](screenshots/04_view_pvp_list.png)
 
-Editing an Entry
+### Viewing Shiny Hunt List  
+![View Shiny List](screenshots/05_view_shiny_list.png)
 
-Removing an Entry
+### Editing an Entry  
+![Edit Entry](screenshots/06_edit_entry.png)
 
-Filtering/Search Entries
+### Removing an Entry  
+![Remove Entry](screenshots/07_remove_entry.png)
+
+### Filtering/Search Entries  
+![Filter/Search](screenshots/08_filter_search.png)
 
 🤝 Contributions
 This is a personal project and part of a learning journey into full-stack development.
